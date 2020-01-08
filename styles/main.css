@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/redsmokeback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#navbartop{
+    align-items: center;
+}
+#icon-fb{
+  color: #3B5998;
+}
+#icon-tw{
+  color: #00aced;
+}
+#icon-bc{
+  color: #629aa9;
+}
+#icon-sc{
+  color: #ff8800;
+}
+.icons{
+  font-size: 2em;
+  margin-left: 0.25em;
+}
+.icons:hover{
+  opacity: 0.4;
+}

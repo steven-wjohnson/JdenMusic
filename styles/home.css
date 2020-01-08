@@ -1,0 +1,22 @@
+#banner-top{
+    background-image: url(../images/JDenLogo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    min-height: 325px;
+    border: 5px solid #898686;
+    margin-top: 4em;
+}
+.body-text{
+    color: whitesmoke;
+}
+.price{
+    margin-left: 8em;
+    font-weight: bolder;
+}
+.card{
+  margin-bottom: 1em;
+}
+.listen{
+  width: 100%;
+}

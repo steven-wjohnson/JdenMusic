@@ -1,0 +1,25 @@
+.border1{
+  padding: 0 0 0 0;
+  border: 0.5em solid black;
+  border-radius: 15px;
+}
+.spc-btm{
+  margin-bottom: 6em;
+}
+.icons{
+  font-size: 2em;
+  margin-left: 0.25em;
+}
+.body-text{
+    color: whitesmoke;
+}
+.price{
+    margin-left: 8em;
+    font-weight: bolder;
+}
+.card{
+  margin-bottom: 1em;
+}
+.card-text{
+  font-size: 80%;
+}
